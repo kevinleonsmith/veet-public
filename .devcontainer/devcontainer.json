@@ -4,8 +4,8 @@
   },
   "portsAttributes": {
     "5173": {
-      "lable":, "vite port":,
-      "onAutoForward":, "openPreview",
+      "lable": "vite port",
+      "onAutoForward": "openPreview"
     }
   },
   "forwardPorts": [5713]
